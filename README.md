@@ -1,8 +1,8 @@
 # 💫About Me :
-👋 Hi, I’m Thượng Hảo
-👀 I’m interested code
-🌱 I’m currently learning software engineering at FPT University Ho Chi Minh Campus
-📫 Contact me via huahao04@gmail.com
+- 👋 Hi, I’m Thượng Hảo
+- 👀 I’m interested code
+- 🌱 I’m currently learning software engineering at FPT University Ho Chi Minh Campus
+- 📫 Contact me via huahao04@gmail.com
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RiSoKingKeo) 
